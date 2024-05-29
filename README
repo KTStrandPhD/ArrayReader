@@ -1,0 +1,38 @@
+ArrayReader
+===========
+
+This is a simple utility which reads generic block data of various types and fills an array. This can be used in conjunction with any data input.
+
+Files
+-----
+
+src/
+	-ArrayReader.cxx -> Class methods
+	-ArrayReader.h	 -> Class definition
+	-ArrayTest.cxx	 -> Sample using 'test.dat' in docs/ folder.
+		-This can be modified for the various sample input data.
+
+docs/
+	-csvtest.csv			-> test data file for .csv inputs
+	-letter.txt				-> test data file for .txt inputs
+	-test.dat					-> test data file with .dat inputs
+
+Installation
+------------
+To install, run 'make' in your desired folder.
+
+Running
+-------
+To run type, './ArrayReader'
+
+Uninstallation
+--------------
+To delete the object file, run 'make clean'
+
+
+
+For questions, comments and concerns, please let me know!
+
+Kyle Strand
+ktstrandphd@gmail.com
+29 May 2024

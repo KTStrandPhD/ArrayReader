@@ -1,0 +1,4 @@
+this is a guess of how this might actually work
+i plan to put this in the program
+to check if it gives the correct number of columns
+it's like poetry
